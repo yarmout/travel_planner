@@ -29,7 +29,7 @@ const itineraries = [
         budget: 2000,  // Estimated budget for the trip
         user_rating: 4.5,  // Average user rating out of 5
         shared: true,  // Indicates if the itinerary is shared in the community
-        featured: false,  // Indicates if the itinerary is featured
+        featured: false,  // Indicates if the itinerary is images
     },
     {
         id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
@@ -49,7 +49,7 @@ const itineraries = [
         budget: 1500,  // Estimated budget for the trip
         user_rating: null,  // Rating not available for non-shared itineraries
         shared: false,  // Indicates that the itinerary is not shared in the community
-        featured: false,  // Indicates if the itinerary is featured
+        featured: false,  // Indicates if the itinerary is images
     },
     {
         id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
@@ -72,7 +72,7 @@ const itineraries = [
         budget: 2500,  // Estimated budget for the trip
         user_rating: 4.8,  // Average user rating out of 5
         shared: true,  // Indicates if the itinerary is shared in the community
-        featured: true,  // Indicates if the itinerary is featured
+        featured: true,  // Indicates if the itinerary is images
     },
     // Add more itineraries as needed
 ];
