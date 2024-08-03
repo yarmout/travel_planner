@@ -7,7 +7,7 @@ const users = [
     },
 ];
 
-const itineraries = [
+const trips = [
     {
         id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
         user_id: '410544b2-4001-4271-9855-fec4b6a6442a',
@@ -77,4 +77,4 @@ const itineraries = [
     // Add more itineraries as needed
 ];
 
-export { users, itineraries };
+export { users, trips };
