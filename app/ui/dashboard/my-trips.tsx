@@ -23,7 +23,7 @@ export default async function MyTrips({ myTrips }: { myTrips: MyTrip[] }) {
                                 )}
                             >
                                 <div className="flex items-center">
-                                    {/*TODO: Iamge of city here*/}
+                                    {/*TODO: Image of city here*/}
                                     <div className="min-w-0">
                                         <p className="truncate text-sm font-semibold md:text-base">
                                             {trip.name}
