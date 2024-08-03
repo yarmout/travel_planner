@@ -7,7 +7,7 @@ const users = [
     },
 ];
 
-const itineraries = [
+const trips = [
     {
         id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
         user_id: '410544b2-4001-4271-9855-fec4b6a6442a',
@@ -29,7 +29,7 @@ const itineraries = [
         budget: 2000,  // Estimated budget for the trip
         user_rating: 4.5,  // Average user rating out of 5
         shared: true,  // Indicates if the itinerary is shared in the community
-        featured: false,  // Indicates if the itinerary is images
+        featured: false,  // Indicates if the itinerary is featured
     },
     {
         id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
@@ -49,7 +49,7 @@ const itineraries = [
         budget: 1500,  // Estimated budget for the trip
         user_rating: null,  // Rating not available for non-shared itineraries
         shared: false,  // Indicates that the itinerary is not shared in the community
-        featured: false,  // Indicates if the itinerary is images
+        featured: false,  // Indicates if the itinerary is featured
     },
     {
         id: '3958dc9e-742f-4377-85e9-fec4b6a6442a',
@@ -72,9 +72,9 @@ const itineraries = [
         budget: 2500,  // Estimated budget for the trip
         user_rating: 4.8,  // Average user rating out of 5
         shared: true,  // Indicates if the itinerary is shared in the community
-        featured: true,  // Indicates if the itinerary is images
+        featured: true,  // Indicates if the itinerary is featured
     },
     // Add more itineraries as needed
 ];
 
-export { users, itineraries };
+export { users, trips };

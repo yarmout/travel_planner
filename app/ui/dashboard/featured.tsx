@@ -5,7 +5,7 @@ import { lusitana } from '@/app/ui/fonts';
 export default function Featured() {
     return (
         <div className={"w-full h-64 relative overflow-hidden"}>
-            <Link href={"/community/images"}>
+            <Link href={"/community/featured"}>
                 <Image
                     className={"object-cover rounded-xl"}
                     src={"/featured.jpg"}
