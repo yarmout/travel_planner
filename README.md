@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel Planner
 
-## Getting Started
+A collaborative travel itinerary planner built with React, TypeScript, and Next.js.
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Travel Planner is a web application designed to help users collaboratively plan their trips with friends and family. The app allows users to create, edit, and share travel itineraries, ensuring a seamless and coordinated travel experience. By offering features like collaborative trip plans, location suggestions, and budget tracking, Travel Planner aims to simplify the process of group travel planning.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Collaborative Itinerary Creation**: Work together with friends to build a detailed travel plan.
+- **Location Suggestions**: Get recommendations for places to visit based on your itinerary.
+- **Budget Tracking**: Monitor and manage your travel expenses collaboratively.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Project Status
 
-To learn more about Next.js, take a look at the following resources:
+🚧 **Under Construction** 🚧
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The project is currently in development. Some features may not yet be fully functional
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Scope of Functionality
 
-## Deploy on Vercel
+### Current Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- View a demo dashboard, showcasing the featured trips banner and 'My Trips' card.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Upcoming Features
+
+- Create and share itineraries
+- Add and edit travel plans collaboratively
+- View suggestions for places to visit
+- User authentication and profile management
+- Offline mode
+
+## Known Bugs
+
+- No known bugs at the time of writing
+
+## Prerequisites
+
+- Node.js
+- npm or yarn
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yarmout/travel-planner.git
+    cd travel-planner
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3. Run the development server:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **TypeScript**: To add type safety to the codebase.
+- **Next.js**: To leverage server-side rendering and static site generation.
+- **Tailwind CSS**: For styling the components in a modular and maintainable way.
