@@ -17,21 +17,30 @@ Travel Planner is a web application designed to help users collaboratively plan 
 
 🚧 **Under Construction** 🚧
 
-The project is currently in development. Some features may not yet be fully functional
+This project is currently under active development. Some features may not be fully implemented or may have minor issues. For a stable overview, please visit the [current live version here](https://travel-planner-8c9v3s0se-yezens-projects.vercel.app/dashboard).
+
+For the latest updates and experimental features, you can check out the [developer preview here](https://travel-planner-93zm59u1s-yezens-projects.vercel.app/dashboard). Please note that the developer preview might be less stable as it is intended for testing and ongoing development.
+
 
 ## Scope of Functionality
 
 ### Current Features
 
-- View a demo dashboard, showcasing the featured trips banner and 'My Trips' card.
+- Live dashboard demo featuring:
+    - Featured Trips banner that dynamically resizes depending on window size - will link to featured itineraries in the future
+    - A side-nav with page pre-fetching for faster navigation
+    - The My Trips card, shows the user a preview of their planned trips and itineraries
+
+### In-progress Features
+
+- User Authentication: Implementing login and signup functionality.
 
 ### Upcoming Features
 
-- Create and share itineraries
-- Add and edit travel plans collaboratively
+- Create and share personalized itineraries
+- Collaboratively add and edit travel plans
 - View suggestions for places to visit
-- User authentication and profile management
-- Offline mode
+- Offline mode for uninterrupted access
 
 ## Known Bugs
 
