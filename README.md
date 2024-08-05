@@ -17,7 +17,9 @@ Travel Planner is a web application designed to help users collaboratively plan 
 
 🚧 **Under Construction** 🚧
 
-This project is currently under active development. Some features may not be fully implemented or may have minor issues. For a stable overview, please visit the [current live version here](https://travel-planner-seven-taupe.vercel.app/dashboard).
+This project is currently under active development. Some features may not yet be fully implemented or may have minor issues. 
+
+For a stable overview, please visit the [current live demo here](https://travel-planner-seven-taupe.vercel.app/dashboard).
 
 
 
