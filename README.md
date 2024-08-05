@@ -17,9 +17,9 @@ Travel Planner is a web application designed to help users collaboratively plan 
 
 🚧 **Under Construction** 🚧
 
-This project is currently under active development. Some features may not be fully implemented or may have minor issues. For a stable overview, please visit the [current live version here](https://travel-planner-8c9v3s0se-yezens-projects.vercel.app/dashboard).
+This project is currently under active development. Some features may not be fully implemented or may have minor issues. For a stable overview, please visit the [current live version here](https://travel-planner-seven-taupe.vercel.app/dashboard).
 
-For the latest updates and experimental features, you can check out the [developer preview here](https://travel-planner-93zm59u1s-yezens-projects.vercel.app/dashboard). Please note that the developer preview might be less stable as it is intended for testing and ongoing development.
+For the latest updates and experimental features, you can check out the [developer preview here](https://travel-planner-git-authentication-yezens-projects.vercel.app?_vercel_share=mmEt5dT9QQjRLn6BUQsuc6rxGMXaIlbH). Please note that the developer preview might be less stable as it is intended for testing and ongoing development.
 
 
 ## Scope of Functionality
